@@ -4,4 +4,8 @@ cd Scripts
 activate
 pip install scikit-learn
 python
-sklearn.__version__
+
+>>> import sklearn
+>>> sklearn.__version__
+'1.4.1.post1'
+>>>
