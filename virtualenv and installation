@@ -9,3 +9,5 @@ python
 >>> sklearn.__version__
 '1.4.1.post1'
 >>>
+press Ctrl+Z
+pip install matplotlib
