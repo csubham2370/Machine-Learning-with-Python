@@ -2,6 +2,6 @@ virtualenv venv
 cd venv
 cd Scripts
 activate
-pip install sklearn
+pip install scikit-learn
 python
 sklearn.__version__
