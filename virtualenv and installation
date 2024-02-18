@@ -1,0 +1,7 @@
+virtualenv venv
+cd venv
+cd Scripts
+activate
+pip install sklearn
+python
+sklearn.__version__
